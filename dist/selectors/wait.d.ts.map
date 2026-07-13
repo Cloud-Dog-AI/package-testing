@@ -1,1 +1,0 @@
-{"version":3,"file":"wait.d.ts","sourceRoot":"","sources":["../../src/selectors/wait.ts"],"names":[],"mappings":"AAgBA,OAAO,KAAK,EAAE,IAAI,EAAE,MAAM,kBAAkB,CAAC;AAE7C,wBAAsB,cAAc,CAClC,IAAI,EAAE,IAAI,EACV,QAAQ,EAAE,MAAM,EAChB,OAAO,CAAC,EAAE;IAAE,SAAS,CAAC,EAAE,MAAM,CAAA;CAAE,GAC/B,OAAO,CAAC,IAAI,CAAC,CAEf"}
